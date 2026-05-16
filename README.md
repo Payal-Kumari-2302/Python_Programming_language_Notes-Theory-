@@ -16,8 +16,7 @@ This repository contains Python programs and notes focused on building strong pr
 - 📂 Lists, Tuples, Sets & Dictionary  
 - 📥 File Handling  
 - ⚠️ Exception Handling  
-- 🧱 Object-Oriented Programming (OOP)  
-- 🔎 Searching & Sorting  
+- 🧱 Object-Oriented Programming (OOP) 
 - 🧮 Data Structures & Basic DSA  
 
 ---
